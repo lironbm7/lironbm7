@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liron</h1>
 <h3 align="center">A Junior Full Stack Engineer from Israel</h3>
 
-- 🔭 I’m currently working on [offTracker (Guest)](https://offtracker.herokuapp.com/)
+- 🔭 I’m currently working on [offTracker (Client)](https://offtracker.herokuapp.com/)
 
 - 🌱 I’m currently learning **ReactJs**
 
