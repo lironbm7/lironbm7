@@ -1,4 +1,4 @@
-⚒️ Currently working on [offTracker](https://github.com/lironbm7/offTracker) & Options Greeks Calculator
+⚒️ Currently working on [offTracker](https://github.com/lironbm7/offTracker) & [Options Greeks Calculator](https://github.com/lironbm7/THETAcademy)
 
 📖 Currently learning **ReactJs**
 
